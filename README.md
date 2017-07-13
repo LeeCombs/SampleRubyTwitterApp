@@ -2,6 +2,8 @@
 
 Project created as a learning experience following the tutorial at https://www.railstutorial.org/book
 
+See it while it's developed here: https://desolate-badlands-22392.herokuapp.com/
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
