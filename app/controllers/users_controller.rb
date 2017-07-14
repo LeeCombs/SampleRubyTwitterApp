@@ -11,7 +11,8 @@ class UsersController < ApplicationController
   def create
     @user = User.new(user_params)
     if @user.save
-      # Display a welcome message and redirect to profile page
+      # Login the user, display a welcome message, and redirect to profile page
+      log_in @user
       flash[:success] = "Welcome to the Sample App!"
       redirect_to @user
     else
