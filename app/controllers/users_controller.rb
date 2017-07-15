@@ -17,7 +17,7 @@ class UsersController < ApplicationController
       # Login the user, display a welcome message, and redirect to profile page
       log_in @user
       flash[:success] = "Welcome to the Sample App!"
-      redirect_to @user
+      redirect_back_or @user
     else
       render 'new'
     end
@@ -48,6 +48,7 @@ class UsersController < ApplicationController
     # Confirms a logged-in user.
     def logged_in_user
       unless logged_in?
+        store_location
         flash[:danger] = "Please log in to continue."
         redirect_to login_url
       end
