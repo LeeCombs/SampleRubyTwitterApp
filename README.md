@@ -2,6 +2,10 @@
 
 Project created as a learning experience following the tutorial at https://www.railstutorial.org/book
 
+Current progress: Chapter 10
+
+Upcoming: Account activation, Password reset, microposts, and following users.
+
 See it while it's developed here: https://desolate-badlands-22392.herokuapp.com/
 
 # Ruby on Rails Tutorial sample application
