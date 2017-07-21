@@ -40,4 +40,5 @@ class UsersControllerTest < ActionDispatch::IntegrationTest
     assert_redirected_to root_url
   end
 
+  # "should not allow the admin attribute to be edited via the web"
 end
