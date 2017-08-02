@@ -2,9 +2,9 @@
 
 Project created as a learning experience following the tutorial at https://www.railstutorial.org/book
 
-Current progress: Chapter 12
+Current progress: Chapter 13
 
-Upcoming: Password reset, microposts, and following users.
+Upcoming: User microposts, following users.
 
 See it while it's developed here: https://desolate-badlands-22392.herokuapp.com/
 
