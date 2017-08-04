@@ -1,12 +1,10 @@
 # Ruby Sample App
 
-Project created as a learning experience following the tutorial at https://www.railstutorial.org/book
+A Twtitter-style web application created as a learning experience following the tutorial at https://www.railstutorial.org/book
 
-Current progress: Chapter 13
+See it while it here: https://desolate-badlands-22392.herokuapp.com/
 
-Upcoming: User microposts, following users.
-
-See it while it's developed here: https://desolate-badlands-22392.herokuapp.com/
+Current progress: Completed
 
 # Ruby on Rails Tutorial sample application
 
