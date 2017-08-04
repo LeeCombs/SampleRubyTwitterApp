@@ -2,7 +2,7 @@
 
 A Twtitter-style web application created as a learning experience following the tutorial at https://www.railstutorial.org/book
 
-See it while it here: https://desolate-badlands-22392.herokuapp.com/
+See it here: https://desolate-badlands-22392.herokuapp.com/
 
 Current progress: Completed
 
